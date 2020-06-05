@@ -1,0 +1,22 @@
+.user-profile h3 {
+  color: red;
+}
+
+#user-profile-nav {
+  background: lightblue;
+}
+
+.item-container img {
+  /* width: auto; */
+  height: 100%;
+}
+
+#user-profile-spots-requests {
+  background: lightcoral;
+}
+
+.profile-section-container {
+  height: 400px;
+  width: 100%;
+  text-align: center;
+}
